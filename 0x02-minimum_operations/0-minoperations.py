@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """
-dule for minimum operations calculation
+Module for minimum operations calculation
 """
 
 def minOperations(n):
